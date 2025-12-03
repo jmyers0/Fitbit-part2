@@ -1,6 +1,6 @@
 # Android Project 6 - Fitbit2
 
-Submitted by: Eleni Mekonnen
+Submitted by: Jaiden Myers
 
 Fitbit2 is a health metrics app that allows users to track your calorie and the dashboard of the food you put in.
 
